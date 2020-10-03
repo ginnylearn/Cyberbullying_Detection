@@ -1,0 +1,5 @@
+This lexicon dic I got form hatebase.org
+
+follow the hatebase lexicon_dic by reference this article:
+https://analyze-this.ch/2019/03/10/using-the-hatebase-api-in-python/
+all the code I reference is from his github: https://github.com/meierale/hatebase-api-python/blob/master/hatebase_api_howto.ipynb
